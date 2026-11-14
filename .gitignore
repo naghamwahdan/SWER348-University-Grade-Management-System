@@ -1,0 +1,19 @@
+
+# Maven build output
+target/
+
+# IntelliJ settings
+.idea/
+*.iml
+
+# Other generated files
+out/
+*.class
+/swer348-advanced-object-oriented-streams-project-group-16/target/classes/edu/bethlehem/model/Semester.class
+/swer348-advanced-object-oriented-streams-project-group-16/target/classes/edu/bethlehem/model/Semester.class
+
+**/target/
+**/.idea/
+**/out/
+*.class
+*.iml
