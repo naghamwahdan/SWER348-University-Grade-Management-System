@@ -1,0 +1,9 @@
+letter_grade,minimum_numeric_grade,grade_points
+A,90,4
+B+,85,3.5
+B,80,3
+C+,75,2.5
+C,70,2
+D+,65,1.5
+D,60,1
+F,0,0
